@@ -99,3 +99,8 @@ test()
 
 var  与let 的区别： var 关键字 为变量指定函数范围，let 将脚本对变量的访问限制在  最近的封闭块内。
 Const 定义只读变量 不可重新赋值  const 和let 都是块及的。
+
+
+
+
+// this  file is created by zhenqun
